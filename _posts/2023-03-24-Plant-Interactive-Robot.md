@@ -49,8 +49,7 @@ TBD
 ---
 ## 參考資料:
 
-### [植物的反撲？藝術家讓植栽控制握有砍刀的機械手臂](https://www.inside.com.tw/article/29190-david-bowen-plant-machete)
-![](https://bucket-img.tnlmedia.com/cabinet/files/consoles/1/teams/1/2022/10/obydgBehbWnS8zBugUisQ1OhrtG2VF2CSk0KZIIY.png?auto=compress&fit=max&w=730)
+### <iframe width="727" height="409" src="https://www.youtube.com/embed/okBCGYkE50g" title="Folding Utility Knife with Belt Latch 隨身型折疊式美工刀" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 ### [AD8232心電脈搏測量套件](https://www.ruten.com.tw/item/show?21735007993567)
