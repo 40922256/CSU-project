@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plant Interactive Robot
-author: [Richard Kuo]
+author: [40922256]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
